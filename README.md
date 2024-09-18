@@ -1,7 +1,7 @@
 # PingPal Chat App
 
 ## Description
-PinPag is a real-time interactive chat application that not only offers real-time messaging but also displays the online status of each logged-in user.
+PingPal is a real-time interactive chat application that not only offers real-time messaging but also displays the online status of each logged-in user.
 The application allows you to create new users and initiate real-time chat conversations with them. 
 
 The app consists of a "Create User" page, a "Log In" page, and a "Home" page. User information is stored in MongoDB, and secure authentication and authorization are handled using JWT tokens.
